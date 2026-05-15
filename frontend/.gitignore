@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+android/
+dist/
+dist-android-test/
+dist-android-test-*/
+.gradle/
+web-build/

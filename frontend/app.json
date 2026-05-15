@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Task Management",
+    "slug": "task-management-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "usesCleartextTraffic": true,
+      "package": "com.daviuwebiu.taskmanagementmobile"
+    },
+    "splash": {
+      "backgroundColor": "#f7f4ea"
+    },
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b2ed51f6-6131-4ad1-a359-d9ece5167c45"
+      }
+    }
+  }
+}
